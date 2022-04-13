@@ -5,3 +5,9 @@ pushing changes without pulling changes made on github first
 =======
 testing commit then pushing before pulling files down
 >>>>>>> c7e5a5b72cb7e0f4203c6353743a99b8dbe9bbfa
+^^^^^merge conflict
+         changes made to both local and github on the same line, therefore, must manualy merch to resolve
+
+
+
+If commit made without comment and you want to get out of it use [ 'esc':wq ] 'enter'
